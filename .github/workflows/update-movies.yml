@@ -47,6 +47,9 @@ jobs:
         git commit -m "Update movies data $(date +%Y-%m-%d)" || echo "No changes to commit"
         git push
 
+    - name: Prepare deployment
+      run: cp -r data public/
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
