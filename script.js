@@ -379,7 +379,7 @@ function getCurrentMonthJsonFile() {
     const now = new Date();
     const year = now.getFullYear();
     const month = String(now.getMonth() + 1).padStart(2, '0');
-    return `../data/movies_${year}_${month}.json`;
+    return `./data/movies_${year}_${month}.json`;
 }
 
 // ローカル JSON から映画データを取得して描画
