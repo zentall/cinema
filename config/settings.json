@@ -1,0 +1,27 @@
+{
+  "app": {
+    "name": "Movie Database",
+    "version": "1.0.0",
+    "description": "TMDB APIから映画データを取得して表示するWebアプリケーション"
+  },
+  "api": {
+    "tmdb": {
+      "base_url": "https://api.themoviedb.org/3",
+      "language": "ja-JP",
+      "region": "JP"
+    }
+  },
+  "schedule": {
+    "cron": "0 0 * * 1",
+    "timezone": "UTC",
+    "description": "毎週月曜日00:00 UTCに実行"
+  },
+  "data": {
+    "output_dir": "public",
+    "filename_pattern": "movies_{year}_{month}.json"
+  },
+  "ui": {
+    "title": "Video Grid + Player",
+    "description": "映画のポスターグリッドとプレイヤー"
+  }
+}

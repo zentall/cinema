@@ -1,0 +1,51 @@
+name: Update Movies Data and Deploy
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # 毎週月曜日 00:00 UTC
+  workflow_dispatch:     # 手動実行可能
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install uv
+      run: |
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+    - name: Install dependencies
+      run: uv sync
+
+    - name: Create .env file
+      run: |
+        echo "TMDB_API_KEY=${{ secrets.TMDB_API_KEY }}" > config/.env
+
+    - name: Run batch fetch
+      run: uv run python scripts/batch_fetch.py
+
+    - name: Generate display data
+      run: uv run python scripts/generate_display_data.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/movies_*.json
+        git commit -m "Update movies data $(date +%Y-%m-%d)" || echo "No changes to commit"
+        git push
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
