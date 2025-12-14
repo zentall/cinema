@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * 1'  # 毎週月曜日 00:00 UTC
   workflow_dispatch:     # 手動実行可能
 
+permissions:
+  contents: write        # リポジトリへの書き込み権限を付与
+
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
