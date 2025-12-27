@@ -57,5 +57,5 @@ jobs:
         external_repository: zentall/index
         publish_branch: main
         publish_dir: ./public
-        destination_dir: cinema
+        destination_dir: docs/cinema
         keep_files: true
