@@ -2,7 +2,7 @@ name: Update Movies Data and Deploy
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # 毎週月曜日 00:00 UTC
+    - cron: '0 0 * * 4'  # 毎週木曜日 00:00 UTC
   workflow_dispatch:     # 手動実行可能
 
 permissions:
@@ -50,8 +50,12 @@ jobs:
     - name: Prepare deployment
       run: cp -r data public/
 
-    - name: Deploy to GitHub Pages
+    - name: Deploy to zentall/index repository
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        external_repository: zentall/index
+        publish_branch: main
         publish_dir: ./public
+        destination_dir: cinema
+        keep_files: true
