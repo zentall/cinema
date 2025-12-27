@@ -11,7 +11,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.7846,
+    "popularity": 1.01,
     "adult": false,
     "posterUrl": null,
     "backdropUrl": "https://image.tmdb.org/t/p/original/r6XxF3LFaFgtJNtylRrk6ijy6oL.jpg",
@@ -71,7 +71,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.2238,
+    "popularity": 0.8129,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ynZoXMAR2pksaExz82vpOBGZj6A.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7OLv43YfOZqmtkUx2nainnS3OiO.jpg",
@@ -140,7 +140,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1462,
+    "popularity": 0.1623,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/buLokLWcWcXcbDuVTUrkkG6yqHO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5mjyUkw9VAlkoR6faNIhAHthxYo.jpg",
@@ -205,7 +205,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4469,
+    "popularity": 0.3716,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tpffHzrYP5pNiYSCp3fAItTKR9U.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/kAwQtb0SoUfh6LrL4AzmFqN9yPK.jpg",
@@ -268,9 +268,9 @@
         "name": "ドキュメンタリー"
       }
     ],
-    "voteAverage": 6.8,
-    "voteCount": 13,
-    "popularity": 1.3377,
+    "voteAverage": 6.567,
+    "voteCount": 15,
+    "popularity": 1.02,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/vrEDz3kBG6AZKF3aiaQJB0Qgp8a.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/jurvNOQ4qpmjRFl2Y7SumkoK5DW.jpg",
@@ -321,7 +321,7 @@
     ],
     "voteAverage": 7.3,
     "voteCount": 3,
-    "popularity": 3.1523,
+    "popularity": 0.9635,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mJdBpuOJ47mQNpyczF6TvvkS03a.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/nWZFILDWK0eoo4Nt5vobJqnJeP8.jpg",
@@ -394,7 +394,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4247,
+    "popularity": 0.3174,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/a7c9bttpcxjkG9UH20rbUIfY3ru.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/jKHlGoME9vAnvY8war2aWABSktR.jpg",
@@ -463,7 +463,7 @@
     ],
     "voteAverage": 6.7,
     "voteCount": 12,
-    "popularity": 3.694,
+    "popularity": 1.9517,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/10566j27JPWTAMju9HPmoxls09F.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wfP2iVp5K7Qm72V4vegAVfi6tl5.jpg",
@@ -526,9 +526,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.126,
-    "voteCount": 99,
-    "popularity": 2.8296,
+    "voteAverage": 7.135,
+    "voteCount": 100,
+    "popularity": 2.0924,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/g4F0HE1uWUKut8iuBRagscLTArW.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/bNTUgxHYaDmLo1SfRtahcM16XMi.jpg",
@@ -607,12 +607,12 @@
         "name": "謎"
       }
     ],
-    "voteAverage": 7.6,
-    "voteCount": 682,
-    "popularity": 340.7873,
+    "voteAverage": 7.635,
+    "voteCount": 736,
+    "popularity": 340.9615,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/twxXtxn3bLoLQONWCRlCTrgDLpG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=67ia8oRwB8w",
     "homepage": "https://www.disney.co.jp/movie/zootopia2",
     "tagline": "ズートピア誕生の謎が明かされる",
@@ -679,7 +679,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.9166,
+    "popularity": 0.7162,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wExUm4ptSovCE6ZvQ4P1gigS9zl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/tXE2fVM1f8bamVRoMBSQzK52yvX.jpg",
@@ -739,7 +739,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2528,
+    "popularity": 0.146,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mWRaWVAFTCx2Mur42tJQTsC2fpd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/gxXtYsj5FWNz7rM1iMqyJjAtT13.jpg",
@@ -774,6 +774,40 @@
         "profilePath": "/gh16auNdfiQQAkQLSNnh5XEbvao.jpg"
       }
     ]
+  },
+  {
+    "id": 1603909,
+    "title": "晩夏ノ蝉",
+    "originalTitle": "晩夏ノ蝉",
+    "overview": "",
+    "releaseDate": "2025-12-10",
+    "jpReleaseDate": "2025-12-10",
+    "jpReleaseType": 3,
+    "runtime": 68,
+    "genres": [
+      {
+        "id": 99,
+        "name": "ドキュメンタリー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0071,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eiPbDAUBkbelAX8g1YH8jKp4JUT.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 5897724,
+        "name": "Deng Maorong",
+        "profilePath": null
+      }
+    ],
+    "cast": []
   },
   {
     "id": 1597117,
@@ -856,7 +890,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.6202,
+    "popularity": 0.5993,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zkVSvorBqGic4g8axzliP5GDCmQ.jpg",
     "backdropUrl": null,
@@ -921,7 +955,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.5429,
+    "popularity": 0.8119,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8v37oFeAveM0Y3WSgIyHphWpW5x.jpg",
     "backdropUrl": null,
@@ -993,8 +1027,8 @@
       }
     ],
     "voteAverage": 6.6,
-    "voteCount": 167,
-    "popularity": 124.768,
+    "voteCount": 179,
+    "popularity": 133.3754,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3NmW1RhOQnA22eTrpSrUCMFh23n.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
@@ -1005,7 +1039,7 @@
     "directors": [
       {
         "id": 1452270,
-        "name": "Larry Yang",
+        "name": "杨子",
         "profilePath": "/67ofxstctYR9sK2Vg1m6YStsafT.jpg"
       }
     ],
@@ -1071,7 +1105,7 @@
     ],
     "voteAverage": 6.7,
     "voteCount": 75,
-    "popularity": 26.2386,
+    "popularity": 23.9499,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5A01YSCPYoCOZOhh9tU7F3Htxkf.jpg",
@@ -1142,9 +1176,9 @@
         "name": "犯罪"
       }
     ],
-    "voteAverage": 6.479,
-    "voteCount": 537,
-    "popularity": 13.7659,
+    "voteAverage": 6.468,
+    "voteCount": 546,
+    "popularity": 13.9293,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cISgZGvGBJKjOBmAW86lZ6hiK3c.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5PJkK2iVXRO1ydrtgwuJdevmnOe.jpg",
@@ -1219,9 +1253,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.792,
-    "voteCount": 951,
-    "popularity": 3.5154,
+    "voteAverage": 7.793,
+    "voteCount": 952,
+    "popularity": 2.8765,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7o2JoenPNslllUBtJkrVZcLKzWE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/pzsVGcufDdBLmvagKyLFKaeA4O5.jpg",
@@ -1302,9 +1336,9 @@
         "name": "サイエンスフィクション"
       }
     ],
-    "voteAverage": 8.323,
-    "voteCount": 21164,
-    "popularity": 16.8011,
+    "voteAverage": 8.3,
+    "voteCount": 21175,
+    "popularity": 18.6855,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oHaxzQXWSvIsctZfAYSW0tn54gQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/pZCLGHynFPOv8dve6u9waxknLth.jpg",
@@ -1377,7 +1411,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 5.5255,
+    "popularity": 5.8491,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kAEa1D6MxyUep1pRxrjcWpwqGUl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/3L93blDtBq2i6BDZbmQ74VNWMkS.jpg",
@@ -1442,7 +1476,7 @@
     ],
     "voteAverage": 7.192,
     "voteCount": 13,
-    "popularity": 3.4714,
+    "popularity": 1.1143,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/41rm8LzPhguB80yy7ajkUVOftAB.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/3PLkT5wlRTETwz9v4ARcRCQ8qva.jpg",
@@ -1491,79 +1525,6 @@
     ]
   },
   {
-    "id": 1601227,
-    "title": "Hi Simon There",
-    "originalTitle": "Hi Simon There",
-    "overview": "",
-    "releaseDate": "2025-12-19",
-    "jpReleaseDate": "2025-12-19",
-    "jpReleaseType": 3,
-    "runtime": 106,
-    "genres": [
-      {
-        "id": 27,
-        "name": "ホラー"
-      },
-      {
-        "id": 80,
-        "name": "犯罪"
-      },
-      {
-        "id": 9648,
-        "name": "謎"
-      }
-    ],
-    "voteAverage": 8.875,
-    "voteCount": 8,
-    "popularity": 0.6286,
-    "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qypK8vwPbJH6880rq6zeI7L08xP.jpg",
-    "backdropUrl": null,
-    "trailerUrl": null,
-    "homepage": "",
-    "tagline": "",
-    "status": "Released",
-    "directors": [
-      {
-        "id": 5888654,
-        "name": "Hugo Briones",
-        "profilePath": null
-      }
-    ],
-    "cast": [
-      {
-        "id": 2474909,
-        "name": "Allison Chassagne",
-        "character": "Lora",
-        "profilePath": "/5fwcjAVrhLpBpkpAzsJ5po4qW1z.jpg"
-      },
-      {
-        "id": 4076151,
-        "name": "Certe Mathurin",
-        "character": "Lucas",
-        "profilePath": "/nn5DSbFhrdviutsdgo7O5EQ6Qx4.jpg"
-      },
-      {
-        "id": 5888632,
-        "name": "Noah Pierre",
-        "character": "Doll Face killer",
-        "profilePath": null
-      },
-      {
-        "id": 5888636,
-        "name": "Vivian Delouse",
-        "character": "Doll Face girl killer",
-        "profilePath": null
-      },
-      {
-        "id": 5888637,
-        "name": "Ali Boutle",
-        "character": "Adrien Sherrif",
-        "profilePath": null
-      }
-    ]
-  },
-  {
     "id": 1567504,
     "title": "見え見え",
     "originalTitle": "見え見え",
@@ -1584,7 +1545,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5394,
+    "popularity": 0.1651,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tjDtdRG7RFemaP4jut9OBlyxQtg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mvQjatiaeBiCVmJEc0efkwOhCys.jpg",
@@ -1649,7 +1610,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.2262,
+    "popularity": 1.1667,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/okIg9BoXmSyEZxQdN4xDctngqEY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/dvSTtiRmxXx1xlo9Eva6WH2baYl.jpg",
@@ -1718,7 +1679,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.9093,
+    "popularity": 0.8528,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tecdQzyBlnacXej2deuhzjtpU6G.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/r6n9Oe77jdwYAf9Mucp2Bt8UizI.jpg",
@@ -1783,7 +1744,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.172,
+    "popularity": 0.2737,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/Avaj2wXVa9XopNCwEs3e8FvpL51.jpg",
     "backdropUrl": null,
@@ -1836,9 +1797,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.3,
-    "voteCount": 234,
-    "popularity": 10.2148,
+    "voteAverage": 6.278,
+    "voteCount": 245,
+    "popularity": 12.8323,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y0eo1A4EPKSg380hm4mYNQPuU3O.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
@@ -1909,12 +1870,12 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 7.272,
-    "voteCount": 383,
-    "popularity": 435.72,
+    "voteAverage": 7.356,
+    "voteCount": 666,
+    "popularity": 566.0459,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/2FeKkhkVmItXsh9fK50HN7GpAvF.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/9QW8bQ0BK4GjtpHPuZvH6cfcBDS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=3-Suw8pe_4c",
     "homepage": "",
     "tagline": "",
@@ -1937,7 +1898,7 @@
         "id": 8691,
         "name": "ゾーイ・サルダナ",
         "character": "Neytiri",
-        "profilePath": "/6cM5eNNZgOQPpxJEeYqJhS8svD4.jpg"
+        "profilePath": "/iOVbUH20il632nj2v01NCtYYeSg.jpg"
       },
       {
         "id": 10205,
@@ -1949,7 +1910,7 @@
         "id": 32747,
         "name": "スティーヴン・ラング",
         "character": "Quaritch",
-        "profilePath": "/hdRiM73H2mpJws559TWHCAia7qJ.jpg"
+        "profilePath": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
       },
       {
         "id": 566331,
@@ -1976,7 +1937,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0633,
+    "popularity": 0.0357,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3JtiQTFghTzQGLitCTKFS82KFD5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1PyYsOOEX6QG0OeDrotex50sSTq.jpg",
@@ -2026,20 +1987,57 @@
     "releaseDate": "2025-12-24",
     "jpReleaseDate": "2025-12-24",
     "jpReleaseType": 3,
-    "runtime": 0,
+    "runtime": 94,
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2826,
+    "popularity": 0.1664,
     "adult": false,
-    "posterUrl": null,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vdbc8C7LXD0vx5M1PS1CF8Y0Jir.jpg",
     "backdropUrl": null,
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
     "status": "Released",
-    "directors": [],
-    "cast": []
+    "directors": [
+      {
+        "id": 4735920,
+        "name": "Makoto Hirano",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 2541,
+        "name": "國村隼",
+        "character": "",
+        "profilePath": "/zC0GbuXQGPur7i8AkdPUWedmDKz.jpg"
+      },
+      {
+        "id": 4032115,
+        "name": "尾崎匠海",
+        "character": "",
+        "profilePath": "/vgg4pXAi8ppIKkdc5GaCaFkjZrk.jpg"
+      },
+      {
+        "id": 2057242,
+        "name": "加藤史帆",
+        "character": "",
+        "profilePath": "/1hQJYx2aTHmHqddwdxTgpcfhjuu.jpg"
+      },
+      {
+        "id": 5076483,
+        "name": "西堀亮",
+        "character": "",
+        "profilePath": null
+      },
+      {
+        "id": 1413357,
+        "name": "春海四方",
+        "character": "",
+        "profilePath": "/ohZUb6kUAG9569CwGOX2m4zqqRE.jpg"
+      }
+    ]
   },
   {
     "id": 1437156,
@@ -2053,7 +2051,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.0497,
+    "popularity": 0.5686,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ojRoq6Xv9aWTFUcVg0mF83LXzqM.jpg",
     "backdropUrl": null,
@@ -2118,14 +2116,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.5052,
+    "popularity": 1.1846,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dugOSr2KtXpPzjt8XEK1kGErFPU.jpg",
     "backdropUrl": null,
     "trailerUrl": "https://www.youtube.com/watch?v=T6C9C9ynlQo",
     "homepage": "https://gup-mottolovelove.jp/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1494117,
@@ -2183,14 +2181,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1001,
+    "popularity": 0.2028,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nJJyAKK5sI72L6ilc0en25Y5wmK.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/reTprJRwfgxTtd8FG1t8ZhhC6EM.jpg",
     "trailerUrl": null,
     "homepage": "https://secretlover.jp/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 3162887,
@@ -2256,14 +2254,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.8462,
+    "popularity": 0.4305,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/m3TTR5e8fxaybyPx2B7pZHpjtub.jpg",
     "backdropUrl": null,
     "trailerUrl": null,
     "homepage": "https://tackle.united-ent.com/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 4811749,
@@ -2321,7 +2319,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.7355,
+    "popularity": 0.8779,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kY6F6Z3nriG9g7m6TNEndoTfMBO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/89qy0D7RYV91wCrEp4ziX8DWjkV.jpg",
@@ -2390,14 +2388,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.0443,
+    "popularity": 0.965,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lzAnNjN3rjMZItT2KV41GQsDyOP.jpg",
     "backdropUrl": null,
     "trailerUrl": "https://www.youtube.com/watch?v=nwDdZzwpBP0",
     "homepage": "https://kononusu.com",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1673362,
@@ -2455,14 +2453,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.0132,
+    "popularity": 1.0631,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/fYxf4o3AZCUTdmBPic4sCeCcLgY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/rxxqYq0Yq89zk16Jt7iydnsGyrb.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=J7ZE3G2q41Y",
     "homepage": "https://kintori-movie.jp/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1634746,
