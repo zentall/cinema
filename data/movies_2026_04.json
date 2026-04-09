@@ -30,12 +30,12 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 6.723,
-    "voteCount": 253,
-    "popularity": 36.8521,
+    "voteAverage": 6.722,
+    "voteCount": 259,
+    "popularity": 44.1139,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xJnOMMsFASxNiFnG7v3TNIQ3ife.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=EZisd85uPzM",
     "homepage": "",
     "tagline": "",
@@ -101,7 +101,7 @@
     ],
     "voteAverage": 4.5,
     "voteCount": 4,
-    "popularity": 0.9633,
+    "popularity": 0.8609,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/izdGAev7nDLCRuoorClnDsfchR9.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/xSQcdlOsXfCKs0zRsNgcyQAIPPR.jpg",
@@ -150,6 +150,60 @@
     ]
   },
   {
+    "id": 1664324,
+    "title": "ミュージカル『フラガリアメモリーズ』～でぃあ・まい・ふれんず！～",
+    "originalTitle": "ミュージカル『フラガリアメモリーズ』～でぃあ・まい・ふれんず！～",
+    "overview": "",
+    "releaseDate": "2026-04-03",
+    "jpReleaseDate": "2026-04-03",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0387,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fMmgdFsg7rGKh7WaQF223WUX495.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [],
+    "cast": [
+      {
+        "id": 3642804,
+        "name": "當間ローズ",
+        "character": "Badobarm",
+        "profilePath": null
+      },
+      {
+        "id": 6120435,
+        "name": "Seitaro Nakayama",
+        "character": "Chaco",
+        "profilePath": null
+      },
+      {
+        "id": 5505128,
+        "name": "Shin Nikaido",
+        "character": "Arupek",
+        "profilePath": null
+      },
+      {
+        "id": 5515687,
+        "name": "Iwasaki Yuuga",
+        "character": "Tuxam",
+        "profilePath": null
+      },
+      {
+        "id": 2211853,
+        "name": "荒牧慶彦",
+        "character": "Hangyon",
+        "profilePath": "/kABHGuyXhoQ6AoBThxIZeCJCGfH.jpg"
+      }
+    ]
+  },
+  {
     "id": 1651171,
     "title": "ザッケン！",
     "originalTitle": "ザッケン！",
@@ -166,7 +220,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3217,
+    "popularity": 0.1693,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aeh2CTaTDBxlLdbb1UbIKKzc0wh.jpg",
     "backdropUrl": null,
@@ -235,7 +289,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.6916,
+    "popularity": 1.5906,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/uPLfPKTlh5kwYp43cXWDuqYME1D.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fTg6dQW0t1UkyMmRr9L0U4ar9vb.jpg",
@@ -304,7 +358,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4598,
+    "popularity": 0.7566,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/sokBusFslM6BdiXlJWqsgd3KHpO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1wuMKgAeWQSIBjKzLf2pB1itudc.jpg",
@@ -369,7 +423,7 @@
     ],
     "voteAverage": 6.0,
     "voteCount": 1,
-    "popularity": 1.2028,
+    "popularity": 1.0305,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kUwIlxR831ennlsuY79TR2tUOH2.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/rjLqfoc10D9usS3Q0gvorjCp1pS.jpg",
@@ -389,7 +443,7 @@
         "id": 1128106,
         "name": "김향기",
         "character": "Ko Ah-jin",
-        "profilePath": "/aUBCaLakrpZwCXybDToRy18TQvg.jpg"
+        "profilePath": "/fjxmH4T3JAVVNvGkBHVwpqE0JZo.jpg"
       },
       {
         "id": 5651387,
@@ -440,9 +494,9 @@
         "name": "ホラー"
       }
     ],
-    "voteAverage": 5.882,
-    "voteCount": 896,
-    "popularity": 65.9851,
+    "voteAverage": 5.884,
+    "voteCount": 956,
+    "popularity": 69.2703,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
@@ -462,7 +516,7 @@
         "id": 70851,
         "name": "ジャック・ブラック",
         "character": "Doug McCallister",
-        "profilePath": "/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+        "profilePath": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
       },
       {
         "id": 22226,
@@ -506,8 +560,8 @@
       }
     ],
     "voteAverage": 6.9,
-    "voteCount": 79,
-    "popularity": 2.8503,
+    "voteCount": 81,
+    "popularity": 3.3457,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AkoaTwbFi8izwZaAs0yj6vEhWMB.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/cXr5YOMJKZBkokgNogHjEyFZLc6.jpg",
@@ -563,7 +617,7 @@
     "releaseDate": "2026-03-04",
     "jpReleaseDate": "2026-04-03",
     "jpReleaseType": 3,
-    "runtime": 126,
+    "runtime": 127,
     "genres": [
       {
         "id": 878,
@@ -578,12 +632,12 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 6.3,
-    "voteCount": 200,
-    "popularity": 15.8365,
+    "voteAverage": 6.316,
+    "voteCount": 236,
+    "popularity": 191.4115,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/Am8QOjhTC40cTkhknZjbMFfyvhd.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=Z_ITDJHK6XY",
     "homepage": "https://thebride-movie.jp",
     "tagline": "",
@@ -599,13 +653,13 @@
       {
         "id": 1498158,
         "name": "ジェシー・バックリー",
-        "character": "Ida Bolinski / The Bride / Mary Shelley",
+        "character": "The Bride / Ida / Penelope Rogers / Mary Shelley",
         "profilePath": "/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       {
         "id": 3894,
         "name": "クリスチャン・ベール",
-        "character": "Frankenstein's Monster / 'Frank'",
+        "character": "Frank",
         "profilePath": "/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
       },
       {
@@ -615,16 +669,16 @@
         "profilePath": "/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
       },
       {
-        "id": 516,
-        "name": "アネット・ベニング",
-        "character": "Dr. Cornelia Euphronius",
-        "profilePath": "/sBiiRwAVXd0FCRZ87m0I89qGBvy.jpg"
+        "id": 37154,
+        "name": "John Magaro",
+        "character": "Clyde",
+        "profilePath": "/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
       },
       {
-        "id": 131,
-        "name": "ジェイク・ジレンホール",
-        "character": "Ronnie Reed",
-        "profilePath": "/rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg"
+        "id": 124377,
+        "name": "Jeannie Berlin",
+        "character": "Greta",
+        "profilePath": "/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
       }
     ]
   },
@@ -649,7 +703,7 @@
     ],
     "voteAverage": 5.0,
     "voteCount": 1,
-    "popularity": 1.6248,
+    "popularity": 1.8907,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4dbSyYeOCYceOLs5ebvFufYU5qY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/rJIZEbtjfMWCdFn0d4ZTBWbF6Rf.jpg",
@@ -714,7 +768,7 @@
     ],
     "voteAverage": 6.9,
     "voteCount": 10,
-    "popularity": 1.0595,
+    "popularity": 0.6193,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y1BsmbVOOYOAfVILGPl9hpch5yF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/qw91IdgVrH1Gh1T2XQhjwdMup9B.jpg",
@@ -779,7 +833,7 @@
     ],
     "voteAverage": 7.1,
     "voteCount": 54,
-    "popularity": 1.1124,
+    "popularity": 0.7716,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/344oy01RDIpTQd6Pw43iOYP3bjT.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2fckvNvcgAQiD5IbkVdfh3i6cR9.jpg",
@@ -842,9 +896,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 7.4,
-    "voteCount": 48,
-    "popularity": 3.1133,
+    "voteAverage": 7.44,
+    "voteCount": 50,
+    "popularity": 2.2235,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/i0QIYEuY8BabwAHEFL0LkUsXCrZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/lLf58WCzczOKTnaLUc1hh44P0CR.jpg",
@@ -915,11 +969,11 @@
         "name": "アドベンチャー"
       }
     ],
-    "voteAverage": 6.068,
-    "voteCount": 277,
-    "popularity": 7.0674,
+    "voteAverage": 6.1,
+    "voteCount": 278,
+    "popularity": 7.1685,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/qYyEelO4JfOwE0Ui5KsrCE0O8UA.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/g7RSeIFpyZmEKLI1Hgi1P2TAp8E.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
     "trailerUrl": null,
     "homepage": "",
@@ -977,14 +1031,14 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3365,
+    "popularity": 0.5842,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/53JEmqMccAgwHQxazg1dRJ9xSnX.jpg",
     "backdropUrl": null,
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1494117,
@@ -1046,14 +1100,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2786,
+    "popularity": 0.3639,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/yJp90X83yci6vMeecLZcj1lxm74.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/3ZQcrPkPvrT80T97QWGzIInuhH3.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=4M6I4yILKjI",
     "homepage": "https://synca.jp/sunekosuri/",
     "tagline": "あなたに出会える日を、焦がれていました。",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 2762873,
@@ -1099,7 +1153,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.8369,
+    "popularity": 1.3487,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/fCcI42Lj9nT3ntUqn4np6kJsuZt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/6wp3f1ooedFBtFQdA0Qy8mKY56F.jpg",
@@ -1176,14 +1230,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.0392,
+    "popularity": 1.6819,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/EncgrP6aiUaVAPcwiBYzFHJsez.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/ty9nLEKOskxq1CgBCzMbCpAhLn3.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=z50_UoYGdkY",
+    "trailerUrl": "https://www.youtube.com/watch?v=xRBAX7wKblY",
     "homepage": "https://www.conan-movie.jp/2026",
     "tagline": "旋風を、巻き起こせ──",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 2376066,
@@ -1245,7 +1299,7 @@
     ],
     "voteAverage": 7.8,
     "voteCount": 25,
-    "popularity": 4.082,
+    "popularity": 3.5055,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xR8zszbErvNzudZKBXMpFrmf36d.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/3fNUHpIUVk4THb2CKScIZcdr1Kc.jpg",
@@ -1312,9 +1366,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 7.2,
-    "voteCount": 12,
-    "popularity": 1.7661,
+    "voteAverage": 7.393,
+    "voteCount": 14,
+    "popularity": 1.6033,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4xLxNWLTEaVbrCWFhLd8xoAraDC.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/xcsoHMxB73fSwAH1h07RA9u6Oec.jpg",
@@ -1334,7 +1388,7 @@
         "id": 1299244,
         "name": "이레",
         "character": "Ko In-young",
-        "profilePath": "/i1A5E4v5xRFammipC3H4jeOwczv.jpg"
+        "profilePath": "/5KU4nUOdQxgcvRoOEOQtAaRFbTY.jpg"
       },
       {
         "id": 1755036,
@@ -1385,9 +1439,9 @@
         "name": "音楽"
       }
     ],
-    "voteAverage": 7.2,
-    "voteCount": 43,
-    "popularity": 2.0389,
+    "voteAverage": 7.167,
+    "voteCount": 45,
+    "popularity": 2.1184,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oMeg1capgysYPHVOnZq7HfoIXzE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/90BfOJl7EVi6LyWbVyJfRFw5ixt.jpg",
@@ -1458,12 +1512,12 @@
         "name": "履歴"
       }
     ],
-    "voteAverage": 7.718,
-    "voteCount": 1151,
-    "popularity": 25.6346,
+    "voteAverage": 7.724,
+    "voteCount": 1196,
+    "popularity": 23.4689,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9egBtJSTRUCHo4l57euQsDJM3Pi.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
@@ -1520,7 +1574,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.054,
+    "popularity": 0.0656,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/vUTUylExg1GVawobJm4XejwiDNv.jpg",
     "backdropUrl": null,
@@ -1559,7 +1613,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3165,
+    "popularity": 0.7321,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7RLtRxTrkienGb5S6FwGYYOQotx.jpg",
     "backdropUrl": null,
@@ -1622,7 +1676,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.7744,
+    "popularity": 0.5878,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6qfSXke7BoD7713u64CzrmKdZDR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/z8W1NEn7jjqNJsfdwqmyYPgSoxi.jpg",
@@ -1693,9 +1747,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.391,
-    "voteCount": 206,
-    "popularity": 6.5862,
+    "voteAverage": 7.4,
+    "voteCount": 210,
+    "popularity": 6.0631,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/w8DYDI6rHLySVYseueZce3AzWbc.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wLauNnJYmvVLN0MiOv0tjdiPs0J.jpg",
@@ -1762,9 +1816,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.489,
-    "voteCount": 95,
-    "popularity": 6.1819,
+    "voteAverage": 6.477,
+    "voteCount": 110,
+    "popularity": 6.0305,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oKnQUipYmMEp8jMUXSEelQVPRSx.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/bcw0QrKe9cM7MbjypxMPFdT6hrM.jpg",
@@ -1835,9 +1889,9 @@
         "name": "アクション"
       }
     ],
-    "voteAverage": 7.179,
-    "voteCount": 271,
-    "popularity": 1.9542,
+    "voteAverage": 7.192,
+    "voteCount": 273,
+    "popularity": 1.9391,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dboetYLCA5Ja8uhTY2hV4owyIgR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
@@ -1897,7 +1951,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2021,
+    "popularity": 0.0962,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tiBDD9RxrVBRtzffE6mvgA0yF16.jpg",
     "backdropUrl": null,
@@ -1957,7 +2011,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.0611,
+    "popularity": 0.3179,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/24lGWBZ1hhAvaYcwisUhE0feVXm.jpg",
     "backdropUrl": null,
@@ -1973,6 +2027,53 @@
       }
     ],
     "cast": []
+  },
+  {
+    "id": 1517120,
+    "title": "LOST LAND／ロストランド",
+    "originalTitle": "Harà Watan",
+    "overview": "難民キャンプで暮らす5歳のシャフィと9歳の姉ソミーラは家族との再会を願い、叔母とともに遠く離れたマレーシアへ向かう。パスポートを持つことができない彼らは密航業者に導かれるまま漁船に乗せられ、自然の猛威や警備隊による追跡、人身売買の危機に追い込まれながらも、過酷な道のりを必死に乗り越えていく。",
+    "releaseDate": "2026-04-24",
+    "jpReleaseDate": "2026-04-24",
+    "jpReleaseType": 3,
+    "runtime": 99,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.1761,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/oZarV7q6Q2eK66uBFrX6ASJbmGJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/lAr2t0shcOO6ActXSz1XsLJqpPI.jpg",
+    "trailerUrl": null,
+    "homepage": "https://www.lostland-movie.com/",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1901408,
+        "name": "Akio Fujimoto",
+        "profilePath": "/rJdZCKjh4xN2SqiZVra1rrzMaXY.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 5579663,
+        "name": "Muhammad Shofik Rias Uddin",
+        "character": "Shafi",
+        "profilePath": null
+      },
+      {
+        "id": 5579664,
+        "name": "Shomira Rias Uddin",
+        "character": "Somira",
+        "profilePath": null
+      }
+    ]
   },
   {
     "id": 1449433,
@@ -1999,7 +2100,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.1357,
+    "popularity": 1.5491,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zqKYH0onvzanHWOUoGqX28N3pnN.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/kmFZZDT3WGGGJ8MelXRyvu1LXFx.jpg",
@@ -2058,32 +2159,40 @@
     "runtime": 98,
     "genres": [
       {
-        "id": 10751,
-        "name": "ファミリー"
-      },
-      {
-        "id": 14,
-        "name": "ファンタジー"
-      },
-      {
-        "id": 35,
-        "name": "コメディ"
+        "id": 16,
+        "name": "アニメーション"
       },
       {
         "id": 12,
         "name": "アドベンチャー"
       },
       {
-        "id": 16,
-        "name": "アニメーション"
+        "id": 14,
+        "name": "ファンタジー"
+      },
+      {
+        "id": 10751,
+        "name": "ファミリー"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 28,
+        "name": "アクション"
       }
     ],
-    "voteAverage": 7.206,
-    "voteCount": 34,
-    "popularity": 55.5483,
+    "voteAverage": 6.908,
+    "voteCount": 315,
+    "popularity": 294.0076,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iLEUTEvpFSWAvO6D5tjhgqxh0WE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=EETNL7hFmKI",
     "homepage": "",
     "tagline": "",
@@ -2105,13 +2214,7 @@
         "id": 73457,
         "name": "クリス・プラット",
         "character": "Mario (voice)",
-        "profilePath": "/872Hzdq95gsbMRabsColTW3TLrD.jpg"
-      },
-      {
-        "id": 1397778,
-        "name": "アニヤ・テイラー＝ジョイ",
-        "character": "Princess Peach (voice)",
-        "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+        "profilePath": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
       },
       {
         "id": 95101,
@@ -2120,10 +2223,16 @@
         "profilePath": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
       },
       {
-        "id": 60073,
-        "name": "ブリー・ラーソン",
-        "character": "Rosalina (voice)",
-        "profilePath": "/ajL2BnTVftx9VtjNQceKC1qIqSb.jpg"
+        "id": 1397778,
+        "name": "アニヤ・テイラー＝ジョイ",
+        "character": "Princess Peach (voice)",
+        "profilePath": "/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+      },
+      {
+        "id": 70851,
+        "name": "ジャック・ブラック",
+        "character": "Bowser (voice)",
+        "profilePath": "/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
       },
       {
         "id": 298410,
@@ -2150,7 +2259,7 @@
     ],
     "voteAverage": 7.7,
     "voteCount": 5,
-    "popularity": 1.9441,
+    "popularity": 1.8628,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7Wl4mtdA4BBxCaXfDHXkPHGvYWa.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/aimQDOK2Vj8KXWh64NspqbFsPTs.jpg",
@@ -2219,7 +2328,7 @@
     ],
     "voteAverage": 6.3,
     "voteCount": 3,
-    "popularity": 1.1063,
+    "popularity": 1.0316,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/scdb6c8wnlnwbXMmLhvH5D9cvcY.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2RgHNI8ZAeaGnqcaXrDCWpj7R13.jpg",
@@ -2282,9 +2391,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.2,
-    "voteCount": 389,
-    "popularity": 1.5781,
+    "voteAverage": 7.197,
+    "voteCount": 393,
+    "popularity": 1.4559,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xN293BKB0MDqpILmLCtGGYxQXKW.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/H8YE8DDrnvr869RgCqLvhfcUFM.jpg",
@@ -2355,9 +2464,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.8,
-    "voteCount": 1232,
-    "popularity": 3.4033,
+    "voteAverage": 7.768,
+    "voteCount": 1234,
+    "popularity": 3.9091,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5L3wXQjgGXVdaekHmiITY5OZnqk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/znLq5iyuMVvHwDdgZf6HyVUNjWB.jpg",
@@ -2377,7 +2486,7 @@
         "id": 15135,
         "name": "アラン・ドロン",
         "character": "Jef Costello",
-        "profilePath": "/u4nu4YAQfwuy5Dnxlk28Z5eNA1S.jpg"
+        "profilePath": "/3QGWfT4saSHiTJdhLD4IyuRbYDF.jpg"
       },
       {
         "id": 27440,
@@ -2426,19 +2535,11 @@
       {
         "id": 878,
         "name": "サイエンスフィクション"
-      },
-      {
-        "id": 14,
-        "name": "ファンタジー"
-      },
-      {
-        "id": 18,
-        "name": "ドラマ"
       }
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.8533,
+    "popularity": 1.7097,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jPni7Oz12gZcCMnXsyqgcbBu2Pj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/seiGSDA3rcgKIAcom0nZzXTqogH.jpg",
@@ -2511,7 +2612,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.7519,
+    "popularity": 1.7398,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cJAj6j473SJFrdnViVN8xOsgvhb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/o0PUws61EjIokuqX0sbQs4CZguL.jpg",
@@ -2555,7 +2656,7 @@
         "id": 5809343,
         "name": "Miyu Yoshimoto",
         "character": "Hana Sakamoto",
-        "profilePath": null
+        "profilePath": "/rHoi0nr9ghETQ7WkpVPNPd7qgyr.jpg"
       }
     ]
   }
